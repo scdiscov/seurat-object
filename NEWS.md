@@ -1,3 +1,8 @@
+# Unreleased
+
+## Changes:
+- Replace `future_mapply` with `mapply` in `RenameCells.Segmentation` for improved performance ([#294](https://github.com/satijalab/seurat-object/pull/294))
+
 # SeuratObject 5.4.0
 
 ## Changes:
